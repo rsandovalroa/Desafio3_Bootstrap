@@ -1,0 +1,22 @@
+
+
+
+/* Productos */
+.card h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.card p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  }
+  
+/* Pie de pagina */
+
+.footer h3 {
+    padding-top: 1rem;
+ }
+
+ .footer p {
+    text-align: center;
+ }
